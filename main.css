@@ -1,0 +1,45 @@
+.font{
+    font-size: 25px;
+}
+
+.card-footer h5{
+    font-size: 15px;
+}
+
+.card-footer{
+    gap: 50px;
+}
+.aaa{
+    height: 250px;
+}
+
+.sss{
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+    padding-bottom: 25px;
+}
+
+span{
+    opacity: 0.5;
+}
+
+.fff{
+    width: 80%;
+}
+
+
+.col-3{
+    border: solid 0.5px darkgray;
+}
+
+
+.nnn{
+    margin-top: 50px;
+}
+
+.kkk{
+    margin-top: 15px;
+    border: solid 1px blue;
+    text-align: center;
+}
